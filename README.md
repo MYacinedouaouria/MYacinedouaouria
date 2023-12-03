@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am yacine 
+![](https://komarev.com/ghpvc/?username=MYacinedouaouria&style=flat-square)
+
 
 About Me :
 
@@ -8,7 +10,8 @@ My Stats :
 ###
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MYacinedouaouria&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MYacinedouaouria)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MYacinedouaouria&layout=compact&theme=blue-green)
 
 
